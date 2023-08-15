@@ -1,0 +1,9 @@
+.bottom {
+  position: relative;
+  width: 80%;
+  background: rgb(0, 0, 0, 0.6);
+}
+
+.bottom span {
+  padding: 0 15px;
+}
